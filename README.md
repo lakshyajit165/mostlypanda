@@ -16,5 +16,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostlypanda&show_icons=true&locale=en&count_private=true" alt="mostlypanda" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostlypanda&count_private=true" alt="mostlypanda" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mostlypanda" alt="mostlypanda" /></p>
-<p>[![mostlypanda's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mostlypanda)](https://github.com/anuraghazra/github-readme-stats)</p>

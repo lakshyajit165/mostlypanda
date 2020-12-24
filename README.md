@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarthak Mittal</h1>
 <h3 align="center">Enthusiastic full stack MERN developer from India.</h3>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
